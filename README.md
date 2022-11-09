@@ -48,5 +48,7 @@ By increasing the embedding dimension, more information about a word context can
 
 The model throws keyword error when the user inputs data that the model has not seen during training time. So working on dealing with unknown words can be done further. 
 
+Thank you for reading :)
+
 
 
